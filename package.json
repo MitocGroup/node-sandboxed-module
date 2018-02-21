@@ -11,7 +11,7 @@
     "testing"
   ],
   "license": "MIT",
-  "version": "2.0.3",
+  "version": "2.0.5",
   "repository": "felixge/node-sandboxed-module",
   "main": "./lib/sandboxed_module",
   "files": [
@@ -22,8 +22,8 @@
     "test": "node test/run"
   },
   "dependencies": {
-    "require-like": "0.1.2",
-    "stack-trace": "0.0.9"
+    "require-like": "^0.1.2",
+    "stack-trace": "^0.0.10"
   },
   "devDependencies": {
     "urun": "0.0.8",
